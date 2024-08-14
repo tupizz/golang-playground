@@ -1,3 +1,5 @@
+![golang.png](assets/golang.png)
+
 ### Introduction
 
 This repository stands for the Go programming language. It is a collection of Go code snippets that explain various concepts in Go programming. The code snippets are organized into chapters, each focusing on a specific topic. The explanations are provided in the form of comments within the code snippets.

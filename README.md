@@ -8,12 +8,12 @@ This repository stands for the Go programming language. It is a collection of Go
 
 
 ### Chapters
-1. Pointers: [Explain to Me](01-pointers)
-2. Array and slices Part 1: [Explain to Me](02-array-and-slices-part-1)
-3. Array and slices Part 2: [Explain to Me](03-array-and-slices-part-2)
-4. Array and slices Part 3: [Explain to Me](04-array-and-slices-part-3)
-5. Maps: [Explain to Me](05-maps)
-6. Structs: [Explain to Me](06-strucs-and-methods)
-7. Methods: [Explain to Me](06-strucs-and-methods)
-8. Interfaces: [Explain to Me](07-interfaces-type-assertion-1)
-9. Type Assertion: [Explain to Me](07-interfaces-type-assertion-1)
+1. Pointers: [Check explanation](01-pointers)
+2. Array and slices: [Check explanation](02-array-and-slices-part-1)
+5. Maps: [Check explanation](05-maps)
+6. Structs: [Check explanation](06-strucs-and-methods)
+7. Methods: [Check explanation](06-strucs-and-methods)
+8. Interfaces: [Check explanation](07-interfaces-type-assertion-1)
+9. Type Assertion: [Check explanation](07-interfaces-type-assertion-1)
+10. Errors: [Check explanation](11-errors-01)
+11. Readers and Writers: [Check explanation](13-readers-and-writers)

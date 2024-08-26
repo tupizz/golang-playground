@@ -16,4 +16,4 @@ This repository stands for the Go programming language. It is a collection of Go
 8. Interfaces: [Check explanation](07-interfaces-type-assertion-1)
 9. Type Assertion: [Check explanation](07-interfaces-type-assertion-1)
 10. Errors: [Check explanation](11-errors-01)
-11. Readers and Writers: [Check explanation](13-readers-and-writers)
+11. Readers and Writers: [Check explanation](15-readers-and-writers-01)
